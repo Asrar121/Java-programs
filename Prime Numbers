@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public numbers
+public class numbers
 {
    public static void main (String[] args)
    {		
