@@ -18,3 +18,4 @@ public class numbers {
       System.out.println("Maximum of " + x +" and " + y +" is " + Math.max(x,y));
       System.out.println("Maximum of " + r +" and " + s +" is " + Math.max(r,s));
    }
+}
